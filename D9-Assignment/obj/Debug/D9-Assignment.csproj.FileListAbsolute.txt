@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D9-Assignment\D9-Assignment\bin\Debug\D9-Assignment.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D9-Assignment\D9-Assignment\bin\Debug\D9-Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D9-Assignment\D9-Assignment\bin\Debug\D9-Assignment.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D9-Assignment\D9-Assignment\obj\Debug\D9-Assignment.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D9-Assignment\D9-Assignment\obj\Debug\D9-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D9-Assignment\D9-Assignment\obj\Debug\D9-Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D9-Assignment\D9-Assignment\obj\Debug\D9-Assignment.pdb
